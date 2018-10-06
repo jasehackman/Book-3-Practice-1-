@@ -18,3 +18,7 @@
 .dashed {
   border: 1px dashed black;
 }
+
+.important {
+  color: blue;
+}
