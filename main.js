@@ -1,0 +1,1 @@
+const nameChange = document.querySelector("acticle_header").textContent(Welcome to the Jase blog);
